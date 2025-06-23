@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "version": 4.6,
+    "type": "DiamondMaterial",
+    "generator": "DiamondMaterial.toJSON"
+  },
+  "name": "Emerald CS",
+  "uuid": "a0850763-7260-4f09-aba1-349f60f5bc26",
+  "color": 16565200,
+  "envMapIntensity": 1.2,
+  "envMapIndex": 0,
+  "envMapRotationOffset": 0,
+  "dispersion": 0.012,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 0.9999999999999997,
+  "absorptionFactor": 1.9999999999999991,
+  "reflectivity": 0.38,
+  "refractiveIndex": 2.48,
+  "rayBounces": 4,
+  "diamondOrientedEnvMap": 1,
+  "boostFactors": {
+    "x": 0.892,
+    "y": 0.892,
+    "z": 0.98595025,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "_baseMaterial": "761003b5-ce37-44d9-99f0-ee61f35bb741",
+    "uuid": "a0850763-7260-4f09-aba1-349f60f5bc26"
+  }
+}
